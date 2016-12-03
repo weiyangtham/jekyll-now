@@ -1,7 +1,9 @@
 ---
+layout: post
 title: "Test post"
+published: false
 author: "Tham, Wei Yang"
-date: "10/30/2016"
+date: "2016-10-30"
 output: html_document
 ---
 
